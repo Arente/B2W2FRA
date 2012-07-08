@@ -193,184 +193,183 @@
 \xf000Ă\x0001\x0000の\xfffeかいひりつは　もう　さがらない！
 やせいの　\xf000Ă\x0001\x0000の\xfffeかいひりつは　もう　さがらない！
 あいての　\xf000Ă\x0001\x0000の\xfffeかいひりつは　もう　さがらない！
-\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-あいての　\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-やせいの　\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-あいての　\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-やせいの　\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-あいての　\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-やせいの　\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-あいての　\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-やせいの　\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-あいての　\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-やせいの　\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-あいての　\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-あいての　\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-あいての　\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-やせいの　\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-あいての　\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-あいての　\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-やせいの　\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-あいての　\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-あいての　\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-\xf000Ă\x0001\x0000は\xfffeこおりついた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおりついた！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおりついた！
-\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-\xf000Ă\x0001\x0000は\xfffeこおらない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおらない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおらない！
-\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-あいての　\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-あいての　\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
-やせいの　\xf000Ă\x0001\x0000は\xfffeめを　さました！
-あいての　\xf000Ă\x0001\x0000は\xfffeめを　さました！
-\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-\xf000Ă\x0001\x0000は\xfffeねむらない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeねむらない！
-あいての　\xf000Ă\x0001\x0000は\xfffeねむらない！
-\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-あいての　\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-あいての　\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-やせいの　\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-あいての　\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-あいての　\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-やせいの　\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-あいての　\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-あいての　\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
+Les changements de stats de\xfffe\xf000Ă\x0001\x0000 ont\xfffeété enlevés !
+Les changements de stats de\xfffe\xf000Ă\x0001\x0000 sauvage\xfffeont été enlevés !
+Les changements de stats de\xfffe\xf000Ă\x0001\x0000 ennemi\xfffeont été enlevés !
+Les stats de \xf000Ă\x0001\x0000\xfffen'ont pas baissé !
+Les stats de \xf000Ă\x0001\x0000\xfffesauvage n'ont pas baissé !
+Les stats de \xf000Ă\x0001\x0000\xfffeennemi n'ont pas baissé !
+L'Attaque de \xf000Ă\x0001\x0000\xfffen'a pas baissé !
+L'Attaque de \xf000Ă\x0001\x0000\xfffesauvage n'a pas baissé !
+L'Attaque de \xf000Ă\x0001\x0000\xfffeennemi n'a pas baissé !
+La Défense de \xf000Ă\x0001\x0000\xfffen'a pas baissé !
+La Défense de \xf000Ă\x0001\x0000\xfffesauvage n'a pas baissé !
+La Défense de \xf000Ă\x0001\x0000\xfffeennemi n'a pas baissé !
+La Précision de \xf000Ă\x0001\x0000\xfffen'a pas baissé !
+La Précision de \xf000Ă\x0001\x0000\xfffesauvage n'a pas baissé !
+La Précision de \xf000Ă\x0001\x0000\xfffeennemi n'a pas baissé !
+Ca n'affecte pas\xfffe\xf000Ă\x0001\x0000...
+Ca n'affecte pas\xfffe\xf000Ă\x0001\x0000 sauvage...
+Ca n'affecte pas\xfffe\xf000Ă\x0001\x0000 ennemi...
+\xf000Ă\x0001\x0000\xfffeévite l'attaque !
+\xf000Ă\x0001\x0000 sauvage\xfffeévite l'attaque !
+\xf000Ă\x0001\x0000 ennemi\xfffeévite l'attaque !
+\xf000Ă\x0001\x0000 n'est pas\xfffeaffecté !
+\xf000Ă\x0001\x0000 sauvage\xfffen'est pas affecté !
+\xf000Ă\x0001\x0000 ennemi\xfffen'est pas affecté
+\xf000Ă\x0001\x0000 affaiblit les\xfffedommages sur \xf000ĉ\x0001\x0001 !
+\xf000Ă\x0001\x0000 affaiblit les\xfffedommages sur \xf000ĉ\x0001\x0001\xfffesauvage !
+\xf000Ă\x0001\x0000 affaiblit les\xfffedommages sur \xf000ĉ\x0001\x0001\xfffeennemi !
+\xf000Ă\x0001\x0000 se transforme!
+\xf000Ă\x0001\x0000 sauvage\xfffese transforme!
+\xf000Ă\x0001\x0000 ennemi\xfffese transforme!
+\xf000Ă\x0001\x0000 lance son\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 sauvage lance\xfffeson \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 ennemi lance\xfffeson \xf000ĉ\x0001\x0001!
+Le statut de \xf000Ă\x0001\x0000\xfffeest restauré!
+Le statut de \xf000Ă\x0001\x0000\xfffesauvage est restauré!
+Le statut de \xf000Ă\x0001\x0000\xfffeennemi est restauré!
+\xf000Ă\x0001\x0000 va\xfffeau centre!
+\xf000Ă\x0001\x0000 sauvage\xfffeva au centre!
+\xf000Ă\x0001\x0000 ennemi\xfffeva au centre!
+\xf000Ă\x0001\x0000 est\xfffeempoisonné!
+\xf000Ă\x0001\x0000 sauvage\xfffeest empoisonné!
+\xf000Ă\x0001\x0000 ennemi\xfffeest empoisonné!
+\xf000Ă\x0001\x0000 est\xfffegravement empoisonné!
+\xf000Ă\x0001\x0000 sauvage\xfffeest gravement empoisonné!
+\xf000Ă\x0001\x0000 ennemi\xfffeest gravement empoisonné!
+\xf000Ă\x0001\x0000 est empoisonné\xfffepar \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 sauvage est\xfffeempoisonné par \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 ennemi est\xfffeempoisonné par \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000\xfffesouffre du poison!
+\xf000Ă\x0001\x0000 sauvage\xfffesouffre du poison!
+\xf000Ă\x0001\x0000 ennemi\xfffesouffre du poison!
+\xf000Ă\x0001\x0000 n'est\xfffeplus empoisonné!
+\xf000Ă\x0001\x0000 sauvage\xfffen'est plus empoisonné!
+\xf000Ă\x0001\x0000 ennemi\xfffen'est plus empoisonné!
+\xf000Ă\x0001\x0000 est\xfffedéjà empoisonné.
+\xf000Ă\x0001\x0000 sauvage\xfffeest déjà empoisonné.
+\xf000Ă\x0001\x0000 ennemi\xfffeest déjà empoisonné.
+\xf000Ă\x0001\x0000 ne peut\xfffepas être empoisonné!
+\xf000Ă\x0001\x0000 sauvage ne\xfffepeut pas être empoisonné!
+\xf000Ă\x0001\x0000 ennemi ne\xfffepeut pas être empoisonné!
+\xf000Ă\x0001\x0000 est\xfffebrûlé!
+\xf000Ă\x0001\x0000 sauvage\xfffeest brûlé!
+\xf000Ă\x0001\x0000 ennemi\xfffeest brûlé!
+\xf000Ă\x0001\x0000 est\xfffebrûlé par \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 sauvage\xfffeest brûlé par\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 ennemi\xfffeest brûlé par\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 brûle!
+\xf000Ă\x0001\x0000 sauvage\xfffebrûle!
+\xf000Ă\x0001\x0000 ennemi\xfffebrûle!
+\xf000Ă\x0001\x0000 ne\xfffebrûle plus!
+\xf000Ă\x0001\x0000 sauvage\xfffene brûle plus!
+\xf000Ă\x0001\x0000 ennemi\xfffene brûle plus!
+\xf000Ă\x0001\x0000 brûle\xfffedéjà.
+\xf000Ă\x0001\x0000 sauvage\xfffebrûle déjà.
+\xf000Ă\x0001\x0000 ennemi\xfffebrûle déjà.
+\xf000Ă\x0001\x0000 ne peut\xfffepas brûler!
+\xf000Ă\x0001\x0000 sauvage ne\xfffepeut pas brûler!
+\xf000Ă\x0001\x0000 ennemi ne\xfffepeut pas brûler!
+\xf000Ă\x0001\x0000 est\xfffeparalysé, il peut ne pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 sauvage est\xfffeparalysé, il peut ne pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 ennemi est\xfffeparalysé, il peut ne pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 est\xfffeparalysé, il ne peut pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 sauvage est\xfffeparalysé, il ne peut pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 ennemi est\xfffeparalysé, il ne peut pas\xfffeattaquer!
+\xf000Ă\x0001\x0000 n'est\xfffeplus paralysé!
+\xf000Ă\x0001\x0000 sauvage\xfffen'est plus paralysé!
+\xf000Ă\x0001\x0000 ennemi\xfffen'est plus paralysé!
+\xf000Ă\x0001\x0000 est\xfffedéjà paralysé.
+\xf000Ă\x0001\x0000 sauvage\xfffeest déjà paralysé.
+\xf000Ă\x0001\x0000 ennemi\xfffeest déjà paralysé.
+\xf000Ă\x0001\x0000 ne peut\xfffepas être paralysé!
+\xf000Ă\x0001\x0000 sauvage ne\xfffepeut pas être paralysé!
+\xf000Ă\x0001\x0000 ennemi ne\xfffepeut pas être paralysé!
+\xf000Ă\x0001\x0000 est\xfffegelé!
+\xf000Ă\x0001\x0000 sauvage\xfffeest gelé!
+\xf000Ă\x0001\x0000 ennemi\xfffeest gelé!
+\xf000Ă\x0001\x0000 est\xfffegelé!
+\xf000Ă\x0001\x0000 sauvage\xfffeest gelé!
+\xf000Ă\x0001\x0000 ennemi\xfffeest gelé!
+\xf000Ă\x0001\x0000 est\xfffedégelé!
+\xf000Ă\x0001\x0000 sauvage\xfffeest dégelé!
+\xf000Ă\x0001\x0000 ennemi\xfffeest dégelé!
+\xf000Ă\x0001\x0000 est\xfffedéjà gelé!
+\xf000Ă\x0001\x0000 sauvage\xfffeest déjà gelé!
+\xf000Ă\x0001\x0000 ennemi\xfffeest déjà gelé!
+\xf000Ă\x0001\x0000 ne peut\xfffepas être gelé!
+\xf000Ă\x0001\x0000 sauvage ne\xfffepeut pas être gelé!
+\xf000Ă\x0001\x0000 ennemi ne\xfffepeut pas être gelé!
+\xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000\xfffe fond la glace!
+\xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000\xfffe sauvage fond la glace!
+\xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000\xfffe ennemi fond la glace!
+\xf000Ă\x0001\x0000\xfffes'endort!
+\xf000Ă\x0001\x0000 sauvage\xfffes'endort!
+\xf000Ă\x0001\x0000 ennemi\xfffes'endort!
+\xf000Ă\x0001\x0000 dort!
+\xf000Ă\x0001\x0000 sauvage\xfffedort!
+\xf000Ă\x0001\x0000 ennemi\xfffedort!
+\xf000Ă\x0001\x0000\xfffese réveille!
+\xf000Ă\x0001\x0000 sauvage\xfffese réveille!
+\xf000Ă\x0001\x0000 ennemi\xfffese réveille!
+\xf000Ă\x0001\x0000 est\xfffedéjà endormi.
+\xf000Ă\x0001\x0000 sauvage\xfffeest déjà endormi.
+\xf000Ă\x0001\x0000 ennemi\xfffeest déjà endormi.
+\xf000Ă\x0001\x0000\xfffereste éveillé!
+\xf000Ă\x0001\x0000 sauvage\xfffereste éveillé!
+\xf000Ă\x0001\x0000 ennemi\xfffereste éveillé!
+\xf000Ă\x0001\x0000\xfffecommence un cauchemar!
+\xf000Ă\x0001\x0000 sauvage\xfffecommence un cauchemar!
+\xf000Ă\x0001\x0000 ennemi\xfffecommence un cauchemar!
+\xf000Ă\x0001\x0000\xfffefait un cauchemar!
+\xf000Ă\x0001\x0000 sauvage\xfffefait un cauchemar!
+\xf000Ă\x0001\x0000 ennemi\xfffefait un cauchemar!
+\xf000Ă\x0001\x0000 est\xfffeamoureux!
+\xf000Ă\x0001\x0000 sauvage\xfffeest amoureux!
+\xf000Ă\x0001\x0000 ennemi\xfffeest amoureux!
+\xf000Ă\x0001\x0000 est\xffeamoureux du \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 sauvage\xffeest amoureux du \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 ennemi\xffeest amoureux du \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 est\xfffeamoureux de\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 sauvage\xfffeest amoureux de \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 ennemi\xfffeest amoureux de \xf000Ă\x0001\x0001!
+L'amour empêche \xf000Ă\x0001\x0000\xfffed'attaquer!
+L'amour empêche \xf000Ă\x0001\x0000\xfffesauvage d'attaquer!
+L'amour empêche \xf000Ă\x0001\x0000\xfffeennemi d'attaquer!
+\xf000Ă\x0001\x0000 n'est\xfffeplus amoureux!
+\xf000Ă\x0001\x0000 sauvage\xfffen'est plus amoureux!
+\xf000Ă\x0001\x0000 ennemi\xfffen'est plus amoureux!
+Le statut de \xf000Ă\x0001\x0000\xfffeest restauré!
+Le statut de \xf000Ă\x0001\x0000\xfffesauvage est restauré!
+Le statut de \xf000Ă\x0001\x0000\xfffeennemi est restauré!
+\xf000Ă\x0001\x0000\xfffedevient confus!
+\xf000Ă\x0001\x0000 sauvage\xfffedevient confus!
+\xf000Ă\x0001\x0000 ennemi\xfffedevient confus!
+\xf000Ă\x0001\x0000\xfffeest confus!
+\xf000Ă\x0001\x0000 sauvage\xfffeest confus!
+\xf000Ă\x0001\x0000 ennemi\xfffeest confus!
+\xf000Ă\x0001\x0000\xfffen'est plus confus!
+\xf000Ă\x0001\x0000 sauvage\xfffen'est plus confus!
+\xf000Ă\x0001\x0000 ennemi\xfffen'est plus confus!
+\xf000Ă\x0001\x0000 est\xfffedéjà confus!
+\xf000Ă\x0001\x0000 sauvage\xfffeest déjà confus!
+\xf000Ă\x0001\x0000 ennemi\xfffeest déjà confus!
+\xf000Ă\x0001\x0000\xfffene devient pas confus!
+\xf000Ă\x0001\x0000 sauvage\xfffene devient pas confus!
+\xf000Ă\x0001\x0000 ennemi\xfffene devient pas confus!
+\xf000Ă\x0001\x0000\xfffedevient confus par fatigue!
+\xf000Ă\x0001\x0000 sauvage\xfffedevient confus par fatigue!
+\xf000Ă\x0001\x0000 ennemi\xfffedevient confus par fatigue!
+\xf000Ă\x0001\x0000 a peur!
+\xf000Ă\x0001\x0000 sauvage\xfffea peur!
+\xf000Ă\x0001\x0000 ennemi\xfffea peur!
+\xf000Ă\x0001\x0000 est déconcentré!
+\xf000Ă\x0001\x0000 sauvage\xfffeest déconcentré!
+\xf000Ă\x0001\x0000 ennemi\xfffeest déconcentré!
+\xf000Ă\x0001\x0000 est identifié!
+\xf000Ă\x0001\x0000 sauvage\xfffeest identifié!
+\xf000Ă\x0001\x0000 ennemi\xfffeest identifié!
 やせいの　\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
 あいての　\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
 \xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001から　かいほうされた！
